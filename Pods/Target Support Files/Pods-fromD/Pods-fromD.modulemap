@@ -1,0 +1,6 @@
+framework module Pods_fromD {
+  umbrella header "Pods-fromD-umbrella.h"
+
+  export *
+  module * { export * }
+}
